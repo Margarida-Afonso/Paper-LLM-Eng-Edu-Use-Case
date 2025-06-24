@@ -55,15 +55,26 @@
 #### LLM Response
 - **Generated Files:** [Group_Project_Python_Lists_Student_Grades.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/Group_Project_Python_Lists_Student_Grades.docx)
 
-## Prompt 2.3.2. Content Creation - Beginner-level YouTube tutorial
-> ...
+## Prompt 2.3.2. Content Creation - Beginner-level YouTube tutorial and JupyterLite tutorial for first-time users
+> You are a Data Structures teacher in a Computer Science Degree with 10 years of experience. Your students questions led you to conclude that they lack skills in understanding how lists work and how to use them in Python. The documents attached are python tutorials overing several topics including python lists.
+>
+> The learning goals: Learning about lists in Python, Writing code to use lists, Understand how lists work as parameters.
+>
+> The students will use youtube to view some relevant videos and will also use JupyterLite to view the notebooks and execute the pyhton code.
+>
+> To help achieve these learning goals, you need to create two word document.
+> The first will be a beginner-level YouTube tutorial.
+> The second will be a JupyterLite tutorial for first-time users.
+>
+> Each tutorial:
+> a) should include "how to access" information (like URL)
+> b) must have maximum 3 pages
+> c) should include chapters detailing the key features. For the YouTube tutorial, the key features are: how to access, how to search for a video, how to access a video based on a URL, how to save a video. For the JupyterLite tutorial, the key features are: how to acess, how to open a notebook, how to save changes to a notebook, how to run code
+> 
 
 #### LLM Response
 - **Generated Files:**
-
-## Prompt 2.3.2. Content Creation - JupyterLite tutorial for first-time users. 
-> ...
-
-#### LLM Response
-- **Generated Files:**
-
+  - [YouTube_Tutorial_Beginners.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/YouTube_Tutorial_Beginners.docx)
+  - [JupyterLite_Tutorial_Beginners.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/JupyterLite_Tutorial_Beginners.docx)
+ 
+**Note:** A previous version of the prompt was attempted, include an additional requirement - d) - to include screen shots or images to ilustrate each of the step. At this point ChatGPT can not yet respond to this request, so it created 
