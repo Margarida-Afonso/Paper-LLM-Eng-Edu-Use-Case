@@ -11,9 +11,15 @@
 ## Prompt 1.2.  
 > You are a Data Structures teacher in a Computer Science Degree with 10 years of experience. Your students questions led you to conclude that they lack skills in understanding how lists work and how to use them in Python.
 >
-> Please analyse the documents attached which describe different pedagogical strategies for teaching programming, data structures and Python. With that information, please recommend 3 pedagogical strategies to improve students skills in using Lists in Python. Please also inform recommended content and materials to support / enabler each of the strategies you proposed. The strategies should be implementable within a 2 week period, with 2 classes of 2 hours per week. Strategies may include reverse classroom where students work outside the classroom environment.
-
-The results should be presented in a table, whith one line per pedagogical strategy proposed. The tabel should have 4 columns : the strategy name, the description of the strategy, suggested free tool (if any), suggested materials (existing or to be created).
-
+> Please analyse the documents attached which describe different pedagogical strategies for teaching programming, data structures and Python. With that information, please recommend 3 pedagogical strategies to improve students skills in using Lists in Python. Please also inform recommended content and materials to support / enabler each of the strategies you proposed. The strategies should be implementable within a 2 week period, with 2 classes of 2 hours per week. Strategies may include reverse classroom where students work outside the classroom environment. The learning goals are: Learning about lists in Python, Writing code to use lists, Understand how lists work as parameters
+>
+> The results should be presented in a table, whith one line per pedagogical strategy proposed. The tabel should have 4 columns : the strategy name, the description of the strategy, suggested free tool (if any), suggested materials (existing or to be created).
 
 ### LLM Response                                                                  
+![image](https://github.com/user-attachments/assets/e8661d74-b082-4b6c-98f9-a252153428c9)
+
+**Additional Notes:**
+- Visualization enhances comprehension of abstract data structures like lists, addressing cognitive challenges in programming beginners
+- The Use-Modify-Create framework promotes gradual confidence building and deeper understanding of how lists function, including parameter passing behavior
+- Reverse classrooms increase engagement by shifting passive learning to homework and using class time for problem-solving, addressing motivation issues common with Generation Z students
+- Materials like visual diagrams, interactive Python Tutor traces, and starter code repositories align with the need for simplified, interactive, and autonomous learning pathways recommended in modern programming education
