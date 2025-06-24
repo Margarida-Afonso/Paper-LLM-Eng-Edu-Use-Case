@@ -1,6 +1,6 @@
 This folder contains the open-access documents used for the model in-context learning.
 
-# Pyhton Programming and Data Structures
+**Pyhton Programming and Data Structures**
 
 The documents are publicly available through university websites:
 - Harrington, A. (n.d.). Hands-On Python A Tutorial Introduction for Beginners Python 3.1 Version. https://www.tnstate.edu/faculty/fyao/COMP3050/Py-tutorial.pdf
