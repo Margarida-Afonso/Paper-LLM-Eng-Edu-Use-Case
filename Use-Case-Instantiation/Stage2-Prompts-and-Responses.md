@@ -56,14 +56,14 @@
 - **Generated Files:** [Group_Project_Python_Lists_Student_Grades.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/Group_Project_Python_Lists_Student_Grades.docx)
 
 ## Prompt 2.3.2. Content Creation - Beginner-level YouTube tutorial
-
+> ...
 
 #### LLM Response
-**Generated Files:**
+- **Generated Files:**
 
 ## Prompt 2.3.2. Content Creation - JupyterLite tutorial for first-time users. 
-
+> ...
 
 #### LLM Response
-**Generated Files:**
+- **Generated Files:**
 
