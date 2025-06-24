@@ -77,4 +77,22 @@
   - [YouTube_Tutorial_Beginners.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/YouTube_Tutorial_Beginners.docx)
   - [JupyterLite_Tutorial_Beginners.docx](https://github.com/Margarida-Afonso/Paper-LLM-Eng-Edu-Use-Case/blob/main/Use-Case-Instantiation/Generated-Files/JupyterLite_Tutorial_Beginners.docx)
  
-**Note:** A previous version of the prompt was attempted, include an additional requirement - d) - to include screen shots or images to ilustrate each of the step. At this point ChatGPT can not yet respond to this request, so it created 
+**Note:** A previous version of the prompt was attempted, include an additional requirement - d) - to include screen shots or images to ilustrate each of the step. At this point ChatGPT can not yet respond to this request, so it responded 
+
+      "To create both Word tutorials with real screenshots, I’ll need image files illustrating the platforms.
+      
+      Could you please upload the following screenshots?
+      
+      For the YouTube Tutorial:
+      ✅ YouTube homepage (showing how to access)
+      ✅ Search bar on YouTube (showing how to search)
+      ✅ A video URL in the browser address bar (how to access by URL)
+      ✅ Save button or playlist options on a video (how to save a video)
+      
+      For the JupyterLite Tutorial:
+      ✅ JupyterLite homepage or interface (showing how to access)
+      ✅ File browser showing a notebook (how to open a notebook)
+      ✅ Menu or save icon (how to save changes)
+      ✅ A notebook cell running code (how to run code)
+      
+      You can send them as individual image files or as a zip file. Once I have them, I’ll create two complete Word tutorials with properly inserted screenshots."
