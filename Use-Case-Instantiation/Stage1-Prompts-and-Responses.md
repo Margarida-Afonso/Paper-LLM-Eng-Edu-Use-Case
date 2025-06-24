@@ -5,7 +5,7 @@
 > 
 > Please run your analysis based on column "Questions" and present the results in a table with 3 columnes identifying (1) the areas (2) number of questions in that ares (3) for each area what are the technical sub-areas that the students have more questions about - use the pdf documetns attached to guide you in identifying the sub-areas. Please avoid subtopics as "tree", "search", "algorythm" or "structure".
 
-### LLM Response                                                                  
+#### LLM Response                                                                  
 ![image](https://github.com/user-attachments/assets/d10eb55b-79d0-4616-8016-2c8926b4a97a)
 
 ## Prompt 1.2.  
@@ -15,7 +15,7 @@
 >
 > The results should be presented in a table, whith one line per pedagogical strategy proposed. The tabel should have 4 columns : the strategy name, the description of the strategy, suggested free tool (if any), suggested materials (existing or to be created).
 
-### LLM Response                                                                  
+#### LLM Response                                                                  
 ![image](https://github.com/user-attachments/assets/e8661d74-b082-4b6c-98f9-a252153428c9)
 
 **Additional Notes:**
