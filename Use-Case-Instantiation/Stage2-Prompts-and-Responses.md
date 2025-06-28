@@ -1,9 +1,13 @@
 # Model Stage 2
 ## Prompt 2.3.1. Content Selection
   
-  > ...
+  > You are a Data Structures teacher in a Computer Science Degree with 10 years of experience. Your students questions led you to conclude that they lack skills in understanding how lists work and how to use them in Python.
+> Please propose 3 Youtube videos that visually explain how lists work in Python.
+> Videos should be in either english or portuguese, and have circa 5 minutes each....
 
 #### LLM Response      
+
+
 
 **Files:** 
 
